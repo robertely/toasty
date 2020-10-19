@@ -1,5 +1,5 @@
 
-![Image of Yaktocat](https://github.com/robertely/toasty/blob/master/Exported%20Images/FrontGroup.jpg)
+![Toasters](https://github.com/robertely/toasty/blob/master/Exported%20Images/FrontGroup.jpg)
 Order PCBs from OshPark:
 https://oshpark.com/shared_projects/lg8MnLuQ
 
