@@ -1,3 +1,14 @@
+
+Order PCBs from OshPark:
+https://oshpark.com/shared_projects/lg8MnLuQ
+
+Push Pins:
+https://www.amazon.com/gp/product/B072B9XGZ4
+
+Lead Free Solder: 
+https://www.amazon.com/gp/product/B071XVPJVX
+
+
 Re-Draw art using aesprint:
   - Create solid color background layer (blue color for contrast.)
   - Import source image as it's own layer. I put this on top, with some transparency.
